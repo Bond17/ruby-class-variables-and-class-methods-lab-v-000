@@ -31,8 +31,8 @@ def Song.genre_count
 hash = {}
 Song.genres.each do |gen|
 hasn[gen]=@@genres.count(gen)
-
 end
+hash
 end
 
 def Song.artist_count
