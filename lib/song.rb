@@ -29,7 +29,8 @@ end
 
 def Song.genre_count
 hash = {}
-Song.genres.each do
+Song.genres.each do |gen|
+hasn[gen]=@@genres.count
 
 end
 end
