@@ -19,15 +19,15 @@ def Song.count
 end
 
 def artists
-
+@@artists
 end
 
 def genres
-
+@@genres
 end
 
 def genre_count
-
+hash = @@genres.
 end
 
 def artist_count
