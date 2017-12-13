@@ -7,4 +7,24 @@ def initialize (name, artist, genre)
   @genre = genre
 end
 
+def count
+
+end
+
+def artists
+
+end
+
+def genres
+
+end
+
+def genre_count
+
+end
+
+def artist_count
+
+end
+
 end
