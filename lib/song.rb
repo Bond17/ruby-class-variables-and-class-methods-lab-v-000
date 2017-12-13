@@ -27,7 +27,7 @@ def genres
 end
 
 def genre_count
-hash = @@genres.
+hash = @@genres
 end
 
 def artist_count
