@@ -20,7 +20,7 @@ def Song.count
 end
 
 def Song.artists
-  @@artists
+  @@artists.uniq
 end
 
 def Song.genres
