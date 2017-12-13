@@ -30,7 +30,7 @@ end
 def Song.genre_count
 hash = {}
 Song.genres.each do |gen|
-  hasn[gen]=@@genres.count(gen)
+  hash[gen]=@@genres.count(gen)
 end
 hash
 end
