@@ -20,11 +20,11 @@ def Song.count
 end
 
 def artists
-@@artists
+  @@artists
 end
 
 def genres
-@@genres
+  @@genres
 end
 
 def genre_count
