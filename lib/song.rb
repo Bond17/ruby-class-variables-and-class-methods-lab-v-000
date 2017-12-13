@@ -29,8 +29,9 @@ end
 
 def Song.genre_count
 hash = {}
-Song.genres.each do 
+Song.genres.each do
 
+end
 end
 
 def Song.artist_count
