@@ -19,19 +19,19 @@ def Song.count
 @@count
 end
 
-def artists
+def Song.artists
   @@artists
 end
 
-def genres
+def Song.genres
   @@genres
 end
 
-def genre_count
+def Song.genre_count
 hash = @@genres
 end
 
-def artist_count
+def Song.artist_count
 
 end
 
